@@ -1,3 +1,8 @@
+/*
+Bram Lemeire
+Mathieu Pechovitch
+ */
+
 import org.openqa.selenium.WebDriver;
 
 public abstract class Page {
